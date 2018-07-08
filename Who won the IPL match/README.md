@@ -1,0 +1,4 @@
+# Who won the IPL match?
+The game of cricket is about skill and preparation of individual players, coordination and team work of the whole team, evolving tactics and overall strategy adopted by each team in each match, and of course some luck. It is hard to predict what will happen in the next ball, the next over, the next inning, or in next match. This inability to predict and the uncertainty of the outcome is what makes these games fun.
+
+In this notebook, we have explored whether these games are really completely random or are there any underlying latent patterns in them. We will start by fetching and preprocessing our data.
