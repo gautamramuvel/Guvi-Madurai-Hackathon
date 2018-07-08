@@ -1,4 +1,6 @@
-# Who won the IPL match?
-The game of cricket is about skill and preparation of individual players, coordination and team work of the whole team, evolving tactics and overall strategy adopted by each team in each match, and of course some luck. It is hard to predict what will happen in the next ball, the next over, the next inning, or in next match. This inability to predict and the uncertainty of the outcome is what makes these games fun.
+# Image Captioning using Neural Networks
+We have made an attempt to generate caption using Neural Networks.
 
-In this notebook, we have explored whether these games are really completely random or are there any underlying latent patterns in them. We will start by fetching and preprocessing our data.
+The dataset can be downloaded from below links.
+..* [Flickr 8k Images](http://nlp.cs.illinois.edu/HockenmaierGroup/Framing_Image_Description/Flickr8k_Dataset.zip)
+..* [Flickr 8k Text Data](http://nlp.cs.illinois.edu/HockenmaierGroup/Framing_Image_Description/Flickr8k_text.zip)
